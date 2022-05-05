@@ -1,0 +1,18 @@
+.header-container{
+    font-size: 20px;
+    font-weight: 900;
+    border: 2px solid lightslategray;
+    margin: 10px 40px;
+    background-color: rgba(137, 25, 241, 0.682);
+    border-radius: 50px;
+    box-shadow: 10px 10px 40px gray;
+}
+.header-text-color{
+    color: rgb(238, 196, 90);
+}
+.header-p-text{
+    width: 80%;
+    color: rgb(23, 177, 228);
+    font-size: 30px;
+    font-weight: 500;
+}

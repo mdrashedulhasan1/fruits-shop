@@ -1,0 +1,9 @@
+.product-container{
+    padding: 20px;
+    box-shadow: 10px 10px 40px gainsboro;
+}
+.product-button{
+    padding: 10px 20px;
+    background-color: lightgreen;
+    border-radius: 10px;
+}
